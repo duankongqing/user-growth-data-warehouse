@@ -1,0 +1,23 @@
+# virtual env
+.venv/
+
+# pycache
+__pycache__/
+
+# idea
+.idea/
+
+# vscode
+.vscode/
+
+# logs
+logs/
+
+# env
+.env
+
+# python cache
+*.pyc
+
+# mac
+.DS_Store
