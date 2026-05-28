@@ -1,23 +1,21 @@
-# virtual env
+# venv
 .venv/
 
-# pycache
-__pycache__/
-
-# idea
+# pycharm
 .idea/
 
-# vscode
-.vscode/
-
-# logs
-logs/
+# python cache
+__pycache__/
+*.pyc
 
 # env
 .env
 
-# python cache
-*.pyc
+# logs
+logs/
 
 # mac
 .DS_Store
+
+# data (原始数据不上传)
+data/
